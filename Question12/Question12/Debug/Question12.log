@@ -1,0 +1,9 @@
+﻿  Question12.cpp
+d:\documents\projects\projecteuler\question12\question12\question12.cpp(28): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+d:\documents\projects\projecteuler\question12\question12\question12.cpp(42): warning C4018: '<': signed/unsigned mismatch
+d:\documents\projects\projecteuler\question12\question12\question12.cpp(49): warning C4018: '<': signed/unsigned mismatch
+  Question12.vcxproj -> D:\Documents\Projects\ProjectEuler\Question12\Debug\Question12.exe
