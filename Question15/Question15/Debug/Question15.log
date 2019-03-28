@@ -1,6 +1,3 @@
 ﻿  Question15.cpp
-c:\users\shaynelap\documents\projects\projecteuler\question15\question15\question15.cpp(32): warning C4018: '<': signed/unsigned mismatch
-c:\users\shaynelap\documents\projects\projecteuler\question15\question15\question15.cpp(97): warning C4018: '<': signed/unsigned mismatch
-c:\users\shaynelap\documents\projects\projecteuler\question15\question15\question15.cpp(107): warning C4018: '<': signed/unsigned mismatch
-c:\users\shaynelap\documents\projects\projecteuler\question15\question15\question15.cpp(119): warning C4018: '<': signed/unsigned mismatch
-  Question15.vcxproj -> C:\Users\ShayneLAP\Documents\Projects\ProjectEuler\Question15\Debug\Question15.exe
+d:\documents\projects\projecteuler\question15\question15\question15.cpp(32): warning C4018: '<': signed/unsigned mismatch
+  Question15.vcxproj -> D:\Documents\Projects\ProjectEuler\Question15\Debug\Question15.exe
